@@ -14,3 +14,15 @@ h2 {
       color : red;
 
 }
+.coffee {
+      border-style: solid;
+      border-width: medium;
+      border-color: #FFDEAD;
+
+}
+#c_negru {
+      border-style: solid;
+      border-width: medium;
+      border-color: black;
+      border-radius: 5px;
+}
