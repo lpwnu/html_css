@@ -43,3 +43,51 @@ h2 {
       margin-right: 25%;
       margin-left: 15%;
 }
+#ticket {
+        position: fixed;
+        top: 100px;
+        right: 20px;
+        width: 290px;
+
+}
+
+.guarantee {
+      border-style: dashed;
+      border-width: 1px;
+      border-color: white;
+      background-color: #a7cece;
+      background-image: url(images/background.gif);
+      background-repeat: no-repeat;
+      background-position: center left;
+      line-height: 200%;
+      padding: 3px;
+      margin: 10px;
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 70px;
+      min-height: 80px;
+      max-width: 400px;
+      box-sizing: border-box;
+        /* float: right; */
+
+
+}
+a {
+      color: white;
+      text-decoration: none;
+}
+a:link {
+
+}
+a:visited {
+      color: #777777;
+}
+a:hover {
+      text-decoration: underline;
+}
+.song {
+      font-style: italic;
+}
+.artist {
+      font-weight: bold;
+}
